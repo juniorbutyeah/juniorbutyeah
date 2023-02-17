@@ -1,9 +1,3 @@
-Hey! 👋
-
-My name is Junior!
-
-🧠 I'm trying to learn JS right now.                                               
-🌎 I currently live in the US.                                                                          
-💻 I'm on a computer 90% of my life, if you could call it a life.
+![Metrics](https://metrics.lecoq.io/juniorbutyeah?template=classic&base.community=0&base.repositories=0&languages=1&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FChicago)
 
 [![junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorbutyeah)](https://github.com/anuraghazra/github-readme-stats)
