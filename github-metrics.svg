@@ -1324,7 +1324,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.24m out of 121m users</span>
+                                    <span class="gh">ranked 9.25m out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -1384,7 +1384,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.393393393393396 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.54854854854855 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1407,12 +1407,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 199k out of 53.6m repositories</span>
+                                    <span class="gh">ranked 199k out of 43.4m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">184</div>
+                                        <div class="value">185</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 184 stars</div>
+                                <div class="text">Maintaining a repository with 185 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2205,7 +2205,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2023, 12:07:17 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2023, 13:10:21 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
