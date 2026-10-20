@@ -1,4 +1,4 @@
-<img align="left" src="image.png" width="320" /> 
+<img align="left" src="image.png" width="360" /> 
 
 ```csharp
              *     ,MMM8&&&.            *
