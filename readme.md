@@ -1,5 +1,5 @@
 <div>
-<img align="left" src="image.png" width="424" />
+<img align="left" src="image.png" width="395" />
 <pre>
              *     ,MMM8&amp;&amp;&amp;.            *
                   MMMM88&amp;&amp;&amp;&amp;&amp;    .
