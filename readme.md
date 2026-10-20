@@ -1,13 +1,13 @@
+<div>
 <img align="left" src="image.png" width="360" />
-
-```text
-             *     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *
+<pre>
+             *     ,MMM8&amp;&amp;&amp;.            *
+                  MMMM88&amp;&amp;&amp;&amp;&amp;    .
+                 MMMM88&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+     *           MMM88&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+                 MMM88&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+                 'MMM88&amp;&amp;&amp;&amp;&amp;&amp;'
+                   'MMM8&amp;&amp;&amp;'      *
           |\___/|
           )     (             .              '
          =\     /=
@@ -21,5 +21,5 @@
   |  |  |  | ) ) |  |  |  |  |  |  |  |  |  |  |
   |  |  |  |(_(  |  |  |  |  |  |  |  |  |  |  |
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-```
+</pre>
+</div>
