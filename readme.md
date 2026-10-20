@@ -1,4 +1,4 @@
-<img align="left" src="image.png" width="360" />
+<img align="left" src="image.png" width="360" />;
 ```
              *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
